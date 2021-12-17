@@ -29,8 +29,7 @@
 <a href="https://www.linkedin.com/in/avazbek-rashidov-065290209/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%231877F2.svg?&style=flat-square&logo=LinkedIn&logoColor=white%22%20alt=%22LinkedIn"></a>
 <a href="https://twitter.com/Abdullo32910975" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=Twitter&logoColor=white%22%20alt=%22twitter"></a>
 
-<div>
-  ![Snake animation](https://github.com/Rashidov01/Rashidov01/blob/output/github-contribution-grid-snake.svg)
-</div>
+ 
+![Snake animation](https://github.com/Rashidov01/Rashidov01/blob/output/github-contribution-grid-snake.svg)
 
 
