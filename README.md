@@ -8,7 +8,7 @@
 <a href="https://twitter.com/Abdullo32910975" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=Twitter&logoColor=white%22%20alt=%22twitter"></a>
 
 ## 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/shahriyor-sharifjonov/shahriyor-sharifjonov/master/coding-2.gif" width="408" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Rashidov01/Rashidov01/main/coding-2.gif" width="408" />
 
 **Talking about Personal Stuffs:**
 
