@@ -4,7 +4,7 @@
 
 <a href="https://www.instagram.com/rash1dov_7/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> 
 <a href="https://t.me/Rashidov_571" target="_blank"><img src="https://img.shields.io/badge/Telegram-%231877F2.svg?&style=flat-square&logo=telegram&logoColor=white%22%20alt=%22Telegram"></a>
-<a href="https://www.linkedin.com/in/avazbek-rashidov-065290209/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%231877F2.svg?&style=flat-square&logo=LinkedIn&logoColor=white%22%20alt=%22LinkedIn"></a>
+<a href="https://www.linkedin.com/in/abdulloh-rashidov-065290209/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%231877F2.svg?&style=flat-square&logo=LinkedIn&logoColor=white%22%20alt=%22LinkedIn"></a>
 <a href="https://twitter.com/Abdullo32910975" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=Twitter&logoColor=white%22%20alt=%22twitter"></a>
 
 ## 
