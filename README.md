@@ -42,7 +42,6 @@
   </p>
 </div>
 
-![Snake animation](https://github.com/Rashidov01/Rashidov01/tree/output/github-contribution-grid-snake.svg)
-![snake_animation](https://github.com/Rashidov01/Rashidov01/blob/output/github-contribution-grid-snake.svg)
+![snake_animation](https://github.com/Rashidov01/Rashidov01/blob/main/github-contribution-grid-snake.svg)
 
 
