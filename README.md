@@ -71,7 +71,7 @@ const Abdulloh = {
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Rashidov01&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="180em" src="[![GitHub Streak](https://streak-stats.demolab.com?user=Rashidov01&theme=one-dark-pro&hide_border=true&mode=weekly)](https://git.io/streak-stats)" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashidov01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=400" alt="Top Languages" />
 </p>
 
