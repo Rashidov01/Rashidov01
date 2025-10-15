@@ -87,7 +87,3 @@ const Abdulloh = {
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rashidov01&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
-
-<p align="center">
-  ⭐️ From <a href="https://github.com/Rashidov01">Rashidov01</a> | Feel free to star ⭐ my repositories if you find them useful!
-</p>
